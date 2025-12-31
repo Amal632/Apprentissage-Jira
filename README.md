@@ -28,5 +28,5 @@ Ce projet présente mon apprentissage de **Jira** dans un contexte **data**
 - Développer une méthodologie de travail structurée
 
 ## 👤 Auteur
-Étudiant(e) en data  
+Étudiante en data  
 Projet personnel d’apprentissage
