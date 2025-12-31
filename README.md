@@ -27,6 +27,10 @@ Ce projet présente mon apprentissage de **Jira** dans un contexte **data**
 - Appliquer Jira à des cas data concrets
 - Développer une méthodologie de travail structurée
 
+## ▶️ Visualisation
+L’interface du projet est accessible via GitHub Pages ou en ouvrant le fichier `index.html` dans un navigateur.
+
+
 ## 👤 Auteur
 Étudiante en data  
 Projet personnel d’apprentissage
